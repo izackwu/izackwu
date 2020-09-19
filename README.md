@@ -6,21 +6,6 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=keithnull&count_private=true&show_icons=true&theme=vue-dark&hide_title=true)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.9%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.33% 
-🌆 Daytime    182 commits    █████████░░░░░░░░░░░░░░░░   39.48% 
-🌃 Evening    235 commits    ████████████░░░░░░░░░░░░░   50.98% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
