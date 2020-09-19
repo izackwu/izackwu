@@ -3,9 +3,8 @@ name: Waka Readme
 on:
   schedule:
     - cron: '0 15 * * *'
-  push:
-    branches:
-      - master
+  issue_comment:
+    types: [created, ]
 
 jobs:
   update-readme:
