@@ -13,8 +13,6 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 SCSS                     12 hrs 45 mins      ███████████░░░░░░░░░░░░░░   45.25% 
 JavaScript               12 hrs 18 mins      ███████████░░░░░░░░░░░░░░   43.6% 
