@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '0 15 * * *'
+    - cron: '0 20 * * *'
   issue_comment:
     types: [created, ]
 
