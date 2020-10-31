@@ -14,16 +14,16 @@
 
 ```text
 💬 Programming Languages: 
-TeX                      1 hr 9 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 9 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Homework                 1 hr 9 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 9 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
