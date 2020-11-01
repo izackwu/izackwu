@@ -14,16 +14,17 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      24 mins             █████████████████████████   99.63% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  24 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Homework                 24 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  24 mins             █████████████████████████   100.0%
 
 ```
 
