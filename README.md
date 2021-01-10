@@ -23,13 +23,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       3 hrs 19 mins       ███████████████████████░░   95.26% 
+JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.74%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 29 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 29 mins       █████████████████████████   100.0%
 
 ```
 
