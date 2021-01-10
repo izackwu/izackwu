@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 </h3>
 
-<table width="100%">
+<table>
     <tr>
         <td valign="center" width="50%">
             <p align="center">
@@ -10,6 +10,11 @@
               <a href="https://www.douban.com/people/keith1"><img src="https://img.shields.io/badge/@keith1-007722?style=flat&logo=Douban&logoColor=white" alt="Douban" /></a>
               <img src="https://visitor-badge.glitch.me/badge?page_id=keithnull" alt="vistors" />
             </p>
+            <ul>
+                <li>⛄ I’m currently enjoying my last winter vacation as a student</li>
+                <li>🌱 I’m currently learning distributed systems and serverless computing</li>
+                <li>💬 Ask me about everything but no answer is promised</li>
+            </ul>
         </td>
        <td valign="top" width="50%">
     
