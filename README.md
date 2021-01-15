@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 </h3>
+## Hi, I'm Keith 👋
 
 <table>
     <tr>
