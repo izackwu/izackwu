@@ -24,14 +24,13 @@
 
 ```text
 💬 Programming Languages: 
-Go                       1 hr 57 mins        ██████████████████████░░░   90.41% 
-Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.59%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 10 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 10 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
