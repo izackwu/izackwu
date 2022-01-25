@@ -23,18 +23,19 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    57 mins             ████████████████░░░░░░░░░   64.17% 
+Python                   32 mins             █████████░░░░░░░░░░░░░░░░   35.83%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 29 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 29 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 24/01/2022 20:21:15 UTC
+ Last Updated on 25/01/2022 20:21:08 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 </table>
