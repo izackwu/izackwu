@@ -25,19 +25,17 @@
 
 ```text
 💬 Programming Languages: 
-ca65 assembler           44 mins             █████████████░░░░░░░░░░░░   51.81 % 
-ActionScript             37 mins             ███████████░░░░░░░░░░░░░░   42.90 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 26 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/09/2023 20:05:32 UTC
+ Last Updated on 12/09/2023 20:05:24 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 </table>
