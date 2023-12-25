@@ -25,18 +25,17 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     30 mins             ████████████████████████░   95.20 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/12/2023 20:05:16 UTC
+ Last Updated on 25/12/2023 20:05:35 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 </table>
