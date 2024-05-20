@@ -19,23 +19,23 @@
        <td valign="top" width="50%">
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C330%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C330%20hrs%2056%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    46 mins             █████████████████████████   100.00 % 
+Other                    54 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.00 % 
+VS Code                  54 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      46 mins             █████████████████████████   100.00 % 
+Mac                      54 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/05/2024 20:06:06 UTC
+ Last Updated on 20/05/2024 20:05:26 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 </table>
