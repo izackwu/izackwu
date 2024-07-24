@@ -19,8 +19,6 @@
        <td valign="top" width="50%">
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C340%20hrs%2020%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -35,7 +33,7 @@ Mac                      2 hrs 49 mins       ███████████�
 ```
 
 
- Last Updated on 23/07/2024 20:05:43 UTC
+ Last Updated on 24/07/2024 20:05:41 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 </table>
