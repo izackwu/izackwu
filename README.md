@@ -19,14 +19,14 @@
        <td valign="top" width="50%">
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C355%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C356%20hrs%2025%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 38 mins       ██████████████████████░░░   88.01 % 
-Other                    27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Markdown                 3 hrs 38 mins       ██████████████████████░░░   88.15 % 
+Other                    26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
 JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🔥 Editors: 
@@ -37,7 +37,7 @@ Mac                      4 hrs 8 mins        ███████████�
 ```
 
 
- Last Updated on 20/10/2024 20:05:53 UTC
+ Last Updated on 21/10/2024 20:06:27 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 </table>
