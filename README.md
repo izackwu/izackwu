@@ -25,17 +25,18 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               5 mins              ████████████████████░░░░░   78.64 % 
+Other                    1 min               █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/03/2025 20:06:07 UTC
+ Last Updated on 24/03/2025 20:06:47 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 </table>
