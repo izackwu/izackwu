@@ -25,17 +25,17 @@
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 12 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 04/04/2025 20:07:03 UTC
+ Last Updated on 05/04/2025 20:06:02 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 </table>
